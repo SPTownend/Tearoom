@@ -1,2 +1,0 @@
-RewriteCond %{HTTP_HOST} ^https://www.canva.com/design/DAEq7XpZuJU/f99AeFWWDURcjgOPSmGjGQ/view?website#2
-RewriteRule ^(.*) https://lomondtearoom.com/$1 [P]
